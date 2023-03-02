@@ -1,6 +1,8 @@
 # chatgpt-potigol
 
-Dialogo com o ChatGPT para tentar ensiná-lo a linguagem Potigol.
+Dialogo com o ChatGPT para tentar ensiná-lo a linguagem Potigol. 
+
+**ATENÇÃO: O diálogo ainda está sendo formatado**
 
 ## Diálogo
 
